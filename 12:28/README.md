@@ -30,7 +30,7 @@ Application Context
 
 ### IoC 컨테이너 : ApplicationContext와 다양한 빈 설정 방법
 
-![스크린샷 2021-12-24 오전 6.44.28.png](./스크린샷_2021-12-24_오전_6.44.28.png)
+![스크린샷 2021-12-24 오전 6.44.28.png](./1.png)
 
 스프링 IoC 컨테이너의 역할
 
@@ -47,4 +47,4 @@ ApplicationContext
 
 = JacksonApplication.class 가 위치하는 부분부터 스캐닝을 시작해라
 
-** @SpringBootApplication이 붙은 클래스 자체가 설정파일w
+** @SpringBootApplication이 붙은 클래스 자체가 설정파일
