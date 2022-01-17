@@ -44,9 +44,9 @@ public static void main(String[] args) {
         ```
         
 
-** ApplicationListener <ApplicationStartingEvent> 상속 객체 - Not Bean
+** ApplicationListener \\<ApplicationStartingEvent> 상속 객체 - Not Bean
 
-** ApplicationListener <ApplicationStartedEvent> 상속 객체 - Is Bean
+** ApplicationListener \<ApplicationStartedEvent> 상속 객체 - Is Bean
 
 - WebApplicationType 설정
     
